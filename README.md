@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KGoodz93
+- 👋🏾 Hi, I’m @KGoodz93
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning Python.
 
