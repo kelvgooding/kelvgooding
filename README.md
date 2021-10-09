@@ -6,6 +6,7 @@ I am currently expereince/learning in:
 
 - Pandas
 - Selenium
+- Web Scrapping
 - Requests
 - API
 - TKinter
