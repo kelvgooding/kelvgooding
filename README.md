@@ -4,13 +4,15 @@
 
 I am currently expereince/learning in:
 
+- Scripting
+- TKinter UI
+- SQLite3
+- API
 - Pandas
 - Selenium
 - Web Scrapping
 - Requests
-- API
-- TKinter
-- SQLite3
+
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
