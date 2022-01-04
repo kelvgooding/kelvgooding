@@ -5,6 +5,7 @@
 I am currently expereince/learning in:
 
 - Scripting
+- Automation
 - TKinter UI
 - SQLite3
 - API
