@@ -14,6 +14,7 @@ I am currently expereince/learning in:
 - Web Scrapping
 - Requests
 
+Currently updating GitHub to add new projects.
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
