@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @KGoodz93
 - 👀 I’m interested in learning code.
-- 🌱 I’m currently learning Python 3 / SQL / HTML
+- 🌱 I’m currently learning Python, SQL and HTML.
 
 I am currently expereince/learning in:
 
