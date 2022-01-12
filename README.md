@@ -2,11 +2,11 @@
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning Python, SQL and HTML.
 
-I am currently expereince/learning in:
+I am currently experienced/learning in:
 
 - Scripting
 - Automation
-- TKinter UI
+- TKinter
 - SQLite3
 - API
 - Pandas
