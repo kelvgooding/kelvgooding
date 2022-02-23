@@ -4,15 +4,15 @@
 
 I am currently experienced/learning in:
 
-- Scripting
-- Automation
-- TKinter
+- Scripting/Automation
 - SQLite3
-- API
+- OpenPyxl
 - Pandas
 - Selenium
 - Web Scrapping
 - Requests
+- BeautifulSoup
+- TKinter
 
 Currently updating GitHub to add new projects.
 
