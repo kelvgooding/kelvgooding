@@ -13,8 +13,11 @@ I am currently experienced/learning in:
 - Requests
 - BeautifulSoup
 - TKinter
+- Discord Bots
 
-Currently updating GitHub to add new projects.
+(Currently updating my GitHub profile to showcase more projects and scripts).
+
+Any feedback or advice, from ways to improve my scripts, better coding practive, directory structure etc, is always welcome - i am always looking ways to continue improving.
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
