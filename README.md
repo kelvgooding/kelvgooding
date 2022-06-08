@@ -2,24 +2,24 @@
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning Python, SQL, HTML and CSS.
 
-I am currently experienced/learning in:
+Creating projects and scripts for fun and personal/work use. In doing this, i am experienced in:
 
 - Scripting/Automation
 - SQLite3
 - OpenPyxl
-- Pandas
 - Selenium
-- Web Scrapping
-- Requests
-- BeautifulSoup
-- TKinter
-- Discord Bots
+- Requests / BeautifulSoup (Web Scraping)
+- TKinter (UI Applications)
+- Shell Scripting
 
-(Currently updating my GitHub profile to showcase more projects and scripts).
+Some other skills and tools i am actively learning are:
 
-Any feedback or advice, from ways to improve my scripts, better coding practive, directory structure etc, is always welcome - i am always looking ways to continue improving.
+- OOP (Object Oritented Programming)
+- Django
+- Ansible
+- Docker
 
-<iframe src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">via GIPHY</a></p>
+Any feedback or advice will always be welcome - there are always room to continue improving.
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
