@@ -16,7 +16,7 @@ Creating projects and scripts for fun and personal/work use. In doing this, i am
 
 Some other skills and tools i am actively learning are:
 
-- OOP (Object Oritented Programming)
+- OOP (Object-oriented programming)
 - Django
 - Ansible
 - Docker
