@@ -19,6 +19,8 @@ I am currently experienced/learning in:
 
 Any feedback or advice, from ways to improve my scripts, better coding practive, directory structure etc, is always welcome - i am always looking ways to continue improving.
 
+<iframe src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">via GIPHY</a></p>
+
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
