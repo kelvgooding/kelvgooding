@@ -1,6 +1,6 @@
-- 👋🏾 Hi, I’m Kelv, also known as @KGoodz93
-- 👀 I’m interested in learning code.
-- 🌱 I’m currently learning Python, SQL, HTML and CSS.
+👋🏾 Hi, I’m Kelv, also known as @KGoodz93
+👀 I’m interested in learning code.
+🌱 I’m currently learning Python, SQL, HTML and CSS.
 
 Creating projects and scripts for fun and personal/work use. In doing this, i am experienced in:
 
