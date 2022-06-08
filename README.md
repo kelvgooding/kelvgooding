@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning Python, SQL, HTML and CSS.
 
+![giphy](https://user-images.githubusercontent.com/82043281/172652305-1bfbc708-7215-4f75-98ca-31c7ba3d155b.gif)
+
 Creating projects and scripts for fun and personal/work use. In doing this, i am experienced in:
 
 - Scripting/Automation
