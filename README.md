@@ -4,7 +4,7 @@
 
 ![giphy(2)](https://user-images.githubusercontent.com/82043281/172653372-f3cb768f-ea68-40c0-96ab-4ad743a903de.gif)
 
-Creating projects and scripts for fun and personal/work use. In doing this, i am experienced in:
+Creating scripts, applications and projects for fun and personal/work use. In doing this, i am experienced in:
 
 - Scripting/Automation
 - SQLite3
