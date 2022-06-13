@@ -8,9 +8,9 @@ Creating projects and scripts for fun and personal/work use. In doing this, i am
 
 - Scripting/Automation
 - SQLite3
-- OpenPyxl
-- Selenium
 - Requests / BeautifulSoup (Web Scraping)
+- Selenium
+- OpenPyxl
 - TKinter (UI Applications)
 - Shell Scripting
 
