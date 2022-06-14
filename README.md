@@ -21,7 +21,7 @@ Some other skills and tools i am actively learning are:
 - Ansible
 - Docker
 
-Please check out my repo for a glance at some of the projects i am working on. Any feedback or advice will always be welcome - there is always room to continue improving.
+Please check out my profile for a glance at some of the projects i am working on. Any feedback or advice will always be welcome - there is always room to continue improving.
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
