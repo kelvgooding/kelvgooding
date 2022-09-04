@@ -6,18 +6,19 @@
 
 Creating scripts, applications and projects for fun and personal/work use. In doing this, i am experienced in:
 
-- Scripting/Automation
-- SQLite3
+- Desktop Apps (Tkinter)
+- Web Apps (Flask)
+- Automation Scripts (Python)
+- Database Management (SQLite3)
 - Requests / BeautifulSoup (Web Scraping)
-- Selenium
+- Web Automation Selenium
 - OpenPyxl
-- TKinter (UI Applications)
 - Shell Scripting
 
 Some other skills and tools i am actively learning are:
 
 - OOP (Object-oriented programming)
-- Django
+- Flask
 - Ansible
 - Docker
 
