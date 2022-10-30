@@ -4,7 +4,7 @@
 
 ![giphy(2)](https://user-images.githubusercontent.com/82043281/172653372-f3cb768f-ea68-40c0-96ab-4ad743a903de.gif)
 
-Creating scripts, applications and projects for fun and personal/work use. In doing this, i am experienced in:
+Creating scripts, web applications, websites projects for personal/work use. In doing this, i am experienced in the below and more:
 
 - Desktop Apps (Tkinter)
 - Web Apps (Flask)
@@ -14,13 +14,6 @@ Creating scripts, applications and projects for fun and personal/work use. In do
 - Web Automation Selenium
 - OpenPyxl
 - Shell Scripting
-
-Some other skills and tools i am actively learning are:
-
-- OOP (Object-oriented programming)
-- Flask
-- Ansible
-- Docker
 
 Please check out my profile for a glance at some of the projects i am working on. Any feedback or advice will always be welcome - there is always room to continue improving.
 
