@@ -1,6 +1,6 @@
 # Kelv Gooding
 
-I am a freelance software developer, who enjoys coding for fun and creating personal projects using a range of programming languages:
+I am a freelance Software Developer, who enjoys coding and building personal projects as a hobby using a range of programming languages:
 
 * Python
 * Flask
@@ -9,15 +9,17 @@ I am a freelance software developer, who enjoys coding for fun and creating pers
 * JavaScript
 * SQL
 
-Please check out my repositories to see some of my work. Alternatively, the use the links before to check out my Freelancing page, along with my web applications.
+Take a look at my Repositories check out my work. Alternatively, use the links before to take a look at my Freelancing page, Life.Live.Automate.
+
+Feel free to reach out to me, and drop me a message!
 
 ---
 
-**Websites**
+## **Websites**
 
 * [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-**Projects**
+## **Projects**
 
 * [Our Secret Santa](https://www.oursecretsanta.co.uk/)
 
