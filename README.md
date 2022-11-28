@@ -1,6 +1,17 @@
+`#ffffff`
+
 # Kelv Gooding
 
-Please check out my profile for a glance at some of the projects i am working on. Any feedback or advice will always be welcome - there is always room to continue improving.
+I am a freelance software developer, who enjoys coding for fun and creating personal projects using a range of programming languages:
+
+* Python
+* Flask
+* HTML
+* CSS
+* JavaScript
+* SQL
+
+Please check out my repositories to see some of my work. Alternatively, the use the links before to check out my Freelancing page, along with my web applications.
 
 ---
 
