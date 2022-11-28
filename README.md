@@ -1,5 +1,3 @@
-#ffffff
-
 # Kelv Gooding
 
 I am a freelance software developer, who enjoys coding for fun and creating personal projects using a range of programming languages:
