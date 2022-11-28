@@ -5,11 +5,11 @@ Please check out my profile for a glance at some of the projects i am working on
 ---
 
 
-Website:
+* **Websites**
 
 [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-Projects:
+* **Projects**
 
 [Our Secret Santa](https://www.oursecretsanta.co.uk/)
 
