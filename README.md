@@ -4,14 +4,13 @@ Please check out my profile for a glance at some of the projects i am working on
 
 ---
 
+**Websites**
 
-* **Websites**
+* [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-[Live.Life.Automate!](https://livelifeautomate.co.uk/)
+**Projects**
 
-* **Projects**
-
-[Our Secret Santa](https://www.oursecretsanta.co.uk/)
+* [Our Secret Santa](https://www.oursecretsanta.co.uk/)
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
