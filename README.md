@@ -9,7 +9,7 @@ I am a hobbyist/freelance Software Developer, who enjoys coding and building per
 * JavaScript
 * SQL
 
-Take a look at my Repositories check out my work. Alternatively, use the links before to take a look at my Freelancing page, Life.Live.Automate.
+Take a look at my Github repositories to check out my current projects. Alternatively, use the links below to take a look at my Freelancing page, Life.Live.Automate.
 
 Feel free to reach out to me, and drop me a message!
 
