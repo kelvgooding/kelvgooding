@@ -19,7 +19,9 @@ Feel free to reach out to me, and drop me a message!
 
 * [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-## **Projects**
+## **Projects - Web Applications**
+
+Here is a list of the current live web applications I have created using Flask:
 
 * [Our Secret Santa](https://www.oursecretsanta.co.uk/)
 
