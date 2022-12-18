@@ -21,7 +21,7 @@ Feel free to reach out to me, and drop me a message!
 
 ## **Projects - Web Applications**
 
-Here is a list of the current live web applications I have created using Flask:
+Here is a list of web applications created using Flask, which are currently live:
 
 * [Our Secret Santa](https://www.oursecretsanta.co.uk/)
 
