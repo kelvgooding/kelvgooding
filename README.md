@@ -23,8 +23,10 @@ Feel free to reach out to me, and drop me a message!
 
 Here is a list of web applications created using Flask, which are currently live:
 
-* [Our Secret Santa](https://www.oursecretsanta.co.uk/)
+* [Our Secret Santa](https://oursecretsanta.co.uk/)
 * [8-Ball Leaderboard](https://eightball-leaderboard.onrender.com/)
+
+
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
