@@ -23,7 +23,7 @@ Feel free to reach out to me, and drop me a message!
 
 Here is a list of projects which are currently live:
 
-**Flask Web Applications
+**Flask Web Applications**
 
 * [Our Secret Santa](https://oursecretsanta.co.uk/)
 * [8-Ball Leaderboard](https://eightball-leaderboard.onrender.com/)
