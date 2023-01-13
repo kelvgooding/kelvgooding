@@ -6,8 +6,9 @@ I am a hobbyist/freelance Software Developer, who enjoys coding and building per
 * Flask
 * HTML
 * CSS
-* JavaScript
 * SQL
+* JavaScript
+
 
 Take a look at my Github repositories to check out my current projects. Alternatively, use the links below to take a look at my Freelancing page, Life.Live.Automate.
 
