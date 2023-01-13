@@ -15,18 +15,18 @@ Feel free to reach out to me, and drop me a message!
 
 ---
 
-## **Websites**
+## **Website**
 
 * [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-## **Projects - Web Applications**
+## **Projects**
 
-Here is a list of web applications created using Flask, which are currently live:
+Here is a list of projects which are currently live:
+
+Flask Web Applications
 
 * [Our Secret Santa](https://oursecretsanta.co.uk/)
 * [8-Ball Leaderboard](https://eightball-leaderboard.onrender.com/)
-
-
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
