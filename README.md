@@ -9,12 +9,9 @@ I am a hobbyist/freelance Software Developer, who enjoys coding and building per
 * SQL
 * JavaScript
 
+Feel free to take a look at my Github repositories to see my current projects. Alternatively, use the links below to view my projects which are live. These can also be found on my website - [Live.Life.Automate!](https://livelifeautomate.co.uk/)
 
-Take a look at my Github repositories to check out my current projects. Alternatively, use the links below to take a look at my projects. If y
-
-[Live.Life.Automate!](https://livelifeautomate.co.uk/)
-
-Feel free to reach out to me, and drop me a message!
+Please dont hesitate to reach out, or drop me a message!
 
 ---
 
