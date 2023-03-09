@@ -1,6 +1,6 @@
 # Kelv Gooding
 
-I am a hobbyist/freelance Software Developer, who enjoys coding and building personal projects using a range of programming languages, such as:
+I am a hobbyist Software Developer, who enjoys coding and building personal projects using a range of programming languages, such as:
 
 * Python
 * Flask
