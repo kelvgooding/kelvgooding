@@ -1,33 +1,24 @@
 # Kelv Gooding
 
-I am a hobbyist Software Developer, who enjoys coding and building personal projects using a range of programming languages, such as:
+Hi, I'm Kelv! 👋🏾 I am a passionate coding hobbyist. I enjoy creating my own personal projects in the form of automation scripts and web applications. using a range of programming languages, such as:
 
-* Python
-* Flask
-* HTML
-* CSS
-* SQL
-* JavaScript
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-Feel free to take a look at my Github repositories to see my current projects. Alternatively, use the links below to view my projects which are live. These can also be found on my website - [Live.Life.Automate!](https://livelifeautomate.co.uk/)
+I also enjoy managing infratursutre and VM's, and achieve this by mainly using the following tools:
 
-Please dont hesitate to reach out, or drop me a message!
+- Linux
+- AWS (Amazon Web Services)
+- Ansible
+- Terraform
+- Docker
 
----
+Please feel free to take a look at my public projects, which can be found in the Repositories. Any feedback on work is more than welcome.
 
-## **Projects**
-
-Here is a list of projects which are currently live:
-
-**Web Applications**
-
-* [Our Secret Santa](https://oursecretsanta.co.uk/)
-* [8-Ball Leaderboard](https://eightball-leaderboard.onrender.com/)
-* [Sweepstake Online](https://sweepstakeonline.uk/)
-
-**Websites**
-
-* [Live.Life.Automate!](https://livelifeautomate.co.uk/)
+Kelv ✌🏾
 
 <!---
 KGoodz93/KGoodz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
