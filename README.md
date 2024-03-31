@@ -10,11 +10,11 @@ Hi, I'm Kelv! 👋🏾 I am a passionate coding hobbyist. I enjoy creating my ow
 
 I also enjoy managing infratursutre and VM's, and achieve this by mainly using the following tools:
 
-- Linux
-- AWS (Amazon Web Services)
-- Ansible
-- Terraform
+- Linux (Ubuntu & RHEL)
 - Docker
+- Ansible
+- AWS (Amazon Web Services)
+- Terraform
 
 Please feel free to take a look at my public projects, which can be found in the Repositories. Any feedback on work is more than welcome.
 
