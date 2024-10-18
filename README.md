@@ -1,6 +1,6 @@
 # Kelv Gooding
 
-I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools and web applications.
+Hi, I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools and web applications.
 
 ### What I Work On:
 - ⚙️ Automation with **Python** & **Ansible**
