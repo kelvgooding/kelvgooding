@@ -5,7 +5,7 @@ Hi, I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools and 
 ### What I Work On:
 - ⚙️ Automation with **Python** & **Ansible**
 - 🌐 Web apps using **Flask**, **HTML**, and **CSS**
-- ☁️ Cloud infrastructure on **AWS** with **Terraform** & **Docker**
-- 🖥️ Server management with **RHEL** & **Ubuntu**
+- 📦 Containerization & orchestration with **Docker** & **Kubernetes**
+- 🖥️ Virtual infrastructure management with **Ubuntu** & **Rocky Linux 9**
 
 Browse my projects to see what I’ve been working on!
