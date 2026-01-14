@@ -1,8 +1,7 @@
-# Kelv Gooding
+# Kelv G
 
-Hi, I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools and web applications.
+I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools, web applications and managing virtual infrastructure.
 
-### What I Work On:
 - ⚙️ Automation with **Python** & **Ansible**
 - 🌐 Web apps using **Flask**, **HTML**, and **CSS**
 - 📦 Containerization & orchestration with **Docker** & **Kubernetes**
