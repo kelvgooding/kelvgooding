@@ -7,4 +7,6 @@ I'm Kelv 👋🏾 A tech enthusiast who loves building automation tools, web app
 - 📦 Containerization & orchestration with **Docker** & **Kubernetes**
 - 🖥️ Virtual infrastructure management with **Proxmox**, **Ubuntu** & **Rocky Linux 9**
 
-Browse my projects to see what I’ve been working on!
+All of my projects and scripts have been moved to my local Gitlab repository.
+
+This page will now only show projects that are 100% complete.
